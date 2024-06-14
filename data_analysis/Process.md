@@ -26,5 +26,3 @@ Durante o processo de preparação, foram identificados e tratados diversos prob
 
 - **Valores Ausentes em Campos Críticos**: Verificou-se a necessidade de garantir que campos críticos como ride_id, start_time, end_time, e member_casual não tivessem valores ausentes. Campos obrigatórios incompletos podem resultar em uma análise incorreta ou inválida.
 
-Todas as etapas de limpeza e manipulação foram devidamente documentadas para garantir a transparência e replicabilidade do processo.
-
