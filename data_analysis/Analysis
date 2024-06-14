@@ -64,7 +64,6 @@ O script R fornecido é projetado para realizar as seguintes etapas:
 
 Este script automatiza várias etapas do processo de análise de dados, garantindo a consistência e integridade dos resultados. Ele fornece uma base sólida para investigar e entender melhor os padrões de uso das bicicletas Divvy por membros e ciclistas casuais.
 
-
 ## Recomendações
 1. **Converter Passageiros Casuais em Membros:**
    - Desenvolver campanhas de marketing destacando os benefícios de ser um membro, como economia em viagens frequentes e menor custo por minuto.
@@ -74,3 +73,4 @@ Este script automatiza várias etapas do processo de análise de dados, garantin
 
 3. **Promoções Sazonais:**
    - Implementar promoções em períodos de menor uso para atrair mais membros, como descontos em meses específicos ou durante eventos especiais.
+
