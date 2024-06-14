@@ -45,7 +45,7 @@ Os dados utilizados nesta análise são os registros de viagens da Cyclistic dos
 
 O script R fornecido é projetado para realizar as seguintes etapas:
 
-[Download do Script R](./data/R%20Analysis/R%20Script.R)
+[Download do Script R](./data/R%20analysis/R%20Script.R)
 
 1. **Coleta de Dados:** O script coleta dados de viagens da Divvy de vários arquivos CSV correspondentes a diferentes trimestres.
    
