@@ -1,1 +1,54 @@
+# Análise de Dados
 
+## Fontes de Dados
+Os dados utilizados nesta análise são os registros de viagens da Cyclistic dos meses de agosto e setembro de 2020. Os arquivos CSV utilizados são:
+
+- [2020_aug_cyclistic_data - 202004-aug-divvy-tripdata.csv](./2020_aug_cyclistic_data - 202004-aug-divvy-tripdata.csv)
+- [2020_sept_cyclistic_data - 202004-sept-divvy-tripdata.csv](./2020_sept_cyclistic_data - 202004-sept-divvy-tripdata.csv)
+- [2020_inner_join_cyclistic_data.csv](./2020_inner_join_cyclistic_data.csv)
+
+## Análise Descritiva
+
+### Duração Média das Viagens
+
+#### Setembro
+- **Passageiros casuais:** 72,49 minutos
+- **Membros:** 21,37 minutos
+
+#### Agosto
+- **Passageiros casuais:** 72,49 minutos
+- **Membros:** 21,37 minutos
+
+#### Inner Join Dataset
+- **Passageiros casuais:** 71,72 minutos
+- **Membros:** 21,03 minutos
+
+### Observações
+- A duração média das viagens para passageiros casuais é significativamente maior do que para membros anuais em todos os conjuntos de dados analisados.
+- As médias de duração das viagens são consistentes entre os dados de agosto e setembro, indicando um padrão estável.
+
+## Análise da Distribuição das Viagens ao Longo dos Dias da Semana
+
+#### Setembro
+- A distribuição das viagens varia ao longo da semana, com picos em determinados dias.
+- Membros anuais tendem a usar mais as bicicletas durante a semana, enquanto passageiros casuais têm maior utilização nos fins de semana.
+
+#### Agosto
+- Padrões semelhantes aos observados em setembro, confirmando a consistência no comportamento dos usuários.
+
+#### Inner Join Dataset
+- Tendências consistentes com os meses individuais, reforçando as observações sobre os padrões de uso ao longo da semana.
+
+## Conclusões
+- Os passageiros casuais têm uma duração média de viagem significativamente maior em comparação com os membros anuais.
+- Os membros anuais utilizam mais as bicicletas durante a semana, enquanto os passageiros casuais tendem a usar mais nos fins de semana.
+
+## Recomendações
+1. **Converter Passageiros Casuais em Membros:**
+   - Desenvolver campanhas de marketing destacando os benefícios de ser um membro, como economia em viagens frequentes e menor custo por minuto.
+
+2. **Ajustar a Estrutura de Preços:**
+   - Oferecer descontos ou incentivos para passageiros casuais que optarem por planos anuais, especialmente aqueles com alta frequência de uso.
+
+3. **Promoções Sazonais:**
+   - Implementar promoções em períodos de menor uso para atrair mais membros, como descontos em meses específicos ou durante eventos especiais.
