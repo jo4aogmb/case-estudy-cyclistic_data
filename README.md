@@ -1,27 +1,50 @@
-# Estudo de Caso: Como um compartilhamento de bicicletas possibilita o sucesso rápido?
+# Estudo de Caso: O Sucesso Rápido com Compartilhamento de Bicicletas
 
 ## Resumo do Projeto
-Este é um estudo de caso de análise de dados da Cyclistic, uma empresa fictícia de compartilhamento de bicicletas em Chicago. O objetivo deste projeto é entender como os membros anuais e os ciclistas casuais utilizam as bicicletas da Cyclistic de maneira diferente e propor uma nova estratégia de marketing para converter passageiros casuais em membros anuais. O estudo abordará três perguntas principais: 
+Este estudo de caso analisa os dados de compartilhamento de bicicletas da **Cyclistic**, uma empresa fictícia de Chicago. O objetivo é entender como os membros anuais e os ciclistas casuais utilizam as bicicletas da Cyclistic de maneira diferente e propor estratégias de marketing para converter ciclistas casuais em membros anuais.
+
+## Perguntas de Pesquisa
 1. Como os membros anuais e os ciclistas casuais usam as bicicletas da Cyclistic de forma diferente?
 2. Por que os passageiros casuais iriam querer adquirir planos anuais da Cyclistic?
 3. Como a Cyclistic pode usar a mídia digital para influenciar os passageiros casuais a se tornarem membros?
 
-## Fases do Projeto:
+## Metodologia
+O estudo foi conduzido seguindo as etapas do processo de análise de dados: **Perguntar, Preparar, Processar, Analisar, Compartilhar e Agir**.
 
 ### Perguntar
-Nesta fase, identificaremos as principais perguntas de negócios que nortearão o desenvolvimento da estratégia de marketing.
+Identificação das principais perguntas de negócios para orientar a estratégia de marketing.
 
 ### Preparar
-Prepararemos os dados históricos de trajetos da Cyclistic, baixando e organizando-os adequadamente para análise.
+Preparação dos dados históricos de trajetos da Cyclistic:
+- Coleta de dados dos últimos 12 meses.
+- Organização e verificação da integridade dos dados.
 
 ### Processar
-Processaremos os dados, verificando sua integridade, realizando limpezas e manipulações necessárias para a análise.
+Limpeza e transformação dos dados:
+- Verificação de erros nos dados.
+- Documentação do processo de limpeza.
 
 ### Analisar
-Analisaremos os dados para identificar tendências e relações que nos ajudarão a responder às perguntas de negócios.
+Análise dos dados para identificar tendências e relações:
+- Agregação e formatação dos dados.
+- Realização de cálculos descritivos.
+- Identificação de tendências importantes.
 
 ### Compartilhar
-Nesta etapa, criaremos visualizações de dados eficazes para compartilhar nossas descobertas com a equipe executiva.
+Criação de visualizações de dados para compartilhar descobertas:
+- Desenvolvimento de visualizações claras e eficazes.
+- Apresentação das descobertas para a equipe executiva.
 
 ### Agir
-Finalmente, proporemos recomendações com base em nossa análise, orientando a equipe de marketing da Cyclistic a criar uma nova estratégia para maximizar o número de membros anuais.
+Proposição de recomendações baseadas na análise:
+- Elaboração de um relatório com as principais recomendações.
+- Adição do estudo de caso ao portfólio online.
+
+## Ferramentas Utilizadas
+- **Planilhas:** Excel, Google Sheets
+- **Linguagens de Programação:** SQL, R
+- **Ferramentas de Visualização:** Tableau, Google Data Studio
+
+---
+
+**Nota:** Este estudo de caso é fictício e foi criado para fins educacionais como parte de um treinamento para analistas de dados.
