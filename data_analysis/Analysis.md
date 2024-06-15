@@ -4,7 +4,7 @@
 Os dados utilizados nesta análise são os registros de viagens da Cyclistic dos meses de agosto e setembro de 2020. Os arquivos CSV utilizados são:
 
 - [2020_aug_cyclistic_data.csv](./data/data%20sheets/2020_aug_cyclistic_data.csv)
-- [2020_sept_cyclistic_data - 202004-sept-divvy-tripdata.csv](./data/2020_sept_cyclistic_data - 202004-sept-divvy-tripdata.csv)
+- [2020_sept_cyclistic_data - 202004-sept-divvy-tripdata.csv](./data/data%sheets/2020_sept_cyclistic_data.csv)
 - [2020_inner_join_cyclistic_data.csv](./data/2020_inner_join_cyclistic_data.csv)
 
 ## Análise Descritiva
