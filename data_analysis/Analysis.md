@@ -41,7 +41,7 @@ Os dados utilizados nesta análise são os registros de viagens da Cyclistic dos
 
 ## Conclusões
 - Os passageiros casuais têm uma duração média de viagem significativamente maior em comparação com os membros anuais.
-- Os membros anuais utilizam mais as bicicletas durante a semana, enquanto os passageiros casuais tendem a usar mais nos fins de semana.
+- Os membros anuais utilizam mais as bicicletas durante a semana, enquanto os passageiros casuais tendem a ter um crescimento no usa das bicicletas nos fins de semana.
 
 O script R fornecido é projetado para realizar as seguintes etapas:
 
