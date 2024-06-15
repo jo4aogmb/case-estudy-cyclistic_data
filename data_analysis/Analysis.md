@@ -49,7 +49,7 @@ O script R fornecido é projetado para realizar as seguintes etapas:
 
 1. **Coleta de Dados:** O script coleta dados de viagens da Divvy de vários arquivos CSV correspondentes a diferentes trimestres.
    
-2. **Tratamento e Combinarção dos Dados:** Os dados coletados são padronizados e combinados em um único arquivo de dados. Isso é feito garantindo que todas as colunas tenham nomes consistentes e os tipos de dados corretos.
+2. **Tratamento e Combinação dos Dados:** Os dados coletados são padronizados e combinados em um único arquivo de dados. Isso é feito garantindo que todas as colunas tenham nomes consistentes e os tipos de dados corretos.
 
 3. **Limpeza e Preparação dos Dados:** Durante esta etapa, o script realiza as seguintes operações:
    - Renomeia as colunas para garantir consistência entre os diferentes conjuntos de dados.
@@ -73,4 +73,3 @@ Este script automatiza várias etapas do processo de análise de dados, garantin
 
 3. **Promoções Sazonais:**
    - Implementar promoções em períodos de menor uso para atrair mais membros, como descontos em meses específicos ou durante eventos especiais.
-
