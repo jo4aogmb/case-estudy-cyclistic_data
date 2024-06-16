@@ -26,7 +26,7 @@ O gráfico revela que:
 
 O segundo gráfico compara a duração média das viagens entre membros anuais e ciclistas casuais.
 
-![Duração Média das Viagens](/main/data/R%20analysis/Rplot02.png)
+![Duração Média das Viagens](/case-estudy-cyclistic_data/data/R%20analysis/Rplot02.png)
 
 #### Análise do Gráfico
 
