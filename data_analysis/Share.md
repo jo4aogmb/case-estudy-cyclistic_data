@@ -14,7 +14,7 @@ Os dados analisados revelam padrões distintos de uso das bicicletas da Cyclisti
 
 O primeiro gráfico mostra o número de viagens realizadas por membros anuais e ciclistas casuais ao longo dos dias da semana.
 
-![Uso das Bicicletas ao Longo da Semana](path_to_your_image.png)
+![Uso das Bicicletas ao Longo da Semana](/data/R%20analysis/Rplot01.png)
 
 #### Análise do Gráfico
 
@@ -26,7 +26,7 @@ O gráfico revela que:
 
 O segundo gráfico compara a duração média das viagens entre membros anuais e ciclistas casuais.
 
-![Duração Média das Viagens](/data/R_analysis/Rplot02.png)
+![Duração Média das Viagens](/data/R%20analysis/Rplot02.png)
 
 #### Análise do Gráfico
 
